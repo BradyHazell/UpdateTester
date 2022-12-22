@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Config>
+<ServerConfig>
   <LatestVersion>1.0.0</CurrentVersion>
-  <url>https://github.com/BradyHazell/UpdateTester</url>
-  <changelog>https://github.com/BradyHazell/UpdateTester</changelog>
-  <required>true</required>
-</Config>
+  <Url>https://github.com/BradyHazell/UpdateTester</Url>
+  <Changelog>https://github.com/BradyHazell/UpdateTester</Changelog>
+  <Required>true</Required>
+</ServerConfig>
