@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LatestVersion>1.0.0</CurrentVersion>
+  <url>https://github.com/BradyHazell/UpdateTester</url>
+  <changelog>https://github.com/BradyHazell/UpdateTester</changelog>
+  <required>true</required>
+</Config>
